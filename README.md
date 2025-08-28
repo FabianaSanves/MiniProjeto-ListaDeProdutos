@@ -1,14 +1,32 @@
-Mini Projeto — [Lista de produtos]
+# 🛒 e-Wish List
 
-Inserir nome, preço e quantidade.
-Exibir lista e calcular valor total em estoque.
+Mini projeto de uma lista de produtos.
 
-Integrantes: Fabiana Chaves, Iasmin Corregozinho e Isabella Fernandes
+## 📄 Sobre o Projeto
 
-Como rodar
-npm install
-node index.js
-Exemplo de execução
+Este projeto é um console interativo que permite aos usuários gerenciar uma lista de produtos. As funcionalidades incluem:
+
+* **Adicionar Produtos:** Inserir o nome, preço e quantidade de um item.
+* **Listar Produtos:** Exibir todos os produtos adicionados.
+* **Calcular Valor Total:** Calcular o valor total em estoque com base no preço e quantidade de cada produto.
+
+## 🛠️ Como Executar
+
+Para rodar a aplicação localmente, siga os seguintes passos:
+
+1.  Instale as dependências do projeto:
+    ```sh
+    npm install
+    ```
+2.  Execute o script principal:
+    ```sh
+    node index.js
+    ```
+
+## 🖥️ Exemplo de Uso
+
+Abaixo, você pode ver um exemplo de como o programa funciona, desde a adição de produtos até a exibição da lista e do valor total.
+
 ----------e-Wish List, seja Bem vindo!----------
 
 --- MENU DE OPÇÕES ---
