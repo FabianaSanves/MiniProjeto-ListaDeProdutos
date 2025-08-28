@@ -52,7 +52,7 @@ console.log('----------e-Wish List, seja Bem vindo!----------');
       listarItens();
 
     } else if (opcao === '3') {
-      console.log('Finalizado. Beijocas!');
+      console.log('Finalizado. Até mais!');
       return;
 
     } else { // se não for nenhuma das opções, faça isso
