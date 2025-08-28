@@ -2,6 +2,7 @@ Mini Projeto — [Lista de produtos]
 
 Inserir nome, preço e quantidade.
 Exibir lista e calcular valor total em estoque.
+
 Integrantes: Fabiana Chaves, Iasmin Corregozinho e Isabella Fernandes
 
 Como rodar
