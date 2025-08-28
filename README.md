@@ -27,34 +27,45 @@ Para rodar a aplicação localmente, siga os seguintes passos:
 
 Abaixo, você pode ver um exemplo de como o programa funciona, desde a adição de produtos até a exibição da lista e do valor total.
 
-----------e-Wish List, seja Bem vindo!----------
+```----------e-Wish List, seja Bem vindo!----------
 
 --- MENU DE OPÇÕES ---
-
-Adicionar produtos:
-Listar produtos
-Sair
-Escolha uma opção: 1 Qual item deseja adicionar? Arroz Digite o preço do produto: 21.90 Digite a quantidade do produto: 2 Arroz adicionado à lista.
-
---- MENU DE OPÇÕES ---
-
-Adicionar produtos:
-Listar produtos
-Sair
-Escolha uma opção: 1 Qual item deseja adicionar? Feijão Digite o preço do produto: 11.90 Digite a quantidade do produto: 4 Feijão adicionado à lista.
+1. Adicionar produtos: 
+2. Listar produtos
+3. Sair
+----------------------
+Escolha uma opção: 1
+Qual item deseja adicionar? Arroz
+Digite o preço do produto: 21.90
+Digite a quantidade do produto: 2
+Arroz adicionado à lista.
 
 --- MENU DE OPÇÕES ---
+1. Adicionar produtos: 
+2. Listar produtos
+3. Sair
+----------------------
+Escolha uma opção: 1
+Qual item deseja adicionar? Feijão
+Digite o preço do produto: 11.90
+Digite a quantidade do produto: 4
+Feijão adicionado à lista.
 
-Adicionar produtos:
-Listar produtos
-Sair
-Escolha uma opção: 2 ---Aqui está sua e-Wish List:-----
-
-Arroz - R$ 21.90 - Quantidade: 2
-Feijão - R$ 11.90 - Quantidade: 4 Valor total da lista: R$ 91.40
 --- MENU DE OPÇÕES ---
+1. Adicionar produtos: 
+2. Listar produtos
+3. Sair
+----------------------
+Escolha uma opção: 2
+ ---Aqui está sua e-Wish List:----- 
+- 1. Arroz - R$ 21.90 - Quantidade: 2
+- 2. Feijão - R$ 11.90 - Quantidade: 4
+Valor total da lista: R$ 91.40
 
-Adicionar produtos:
-Listar produtos
-Sair
-Escolha uma opção: 3 Finalizado. Até mais!
+--- MENU DE OPÇÕES ---
+1. Adicionar produtos: 
+2. Listar produtos
+3. Sair
+----------------------
+Escolha uma opção: 3
+Finalizado. Até mais! ```
