@@ -2,6 +2,9 @@
 
 Mini projeto de uma lista de produtos.
 
+**Integrantes:** Fabiana Chaves, Iasmin Corregozinho, Isabella Fernandes
+
+
 ## 📄 Sobre o Projeto
 
 Este projeto é um console interativo que permite aos usuários gerenciar uma lista de produtos. As funcionalidades incluem:
