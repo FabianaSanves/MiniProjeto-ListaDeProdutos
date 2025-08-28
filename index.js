@@ -4,7 +4,6 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-
 // array vazio
 const produtos = [];
 
